@@ -6,5 +6,5 @@ The LIFO method is sometimes used by computers when extracting data from an arra
 
 ![image alt](https://github.com/AlexandrBerbat/Lab3OS/blob/main/lab3/res/1.jpg)
 ![image alt](https://github.com/AlexandrBerbat/Lab3OS/blob/main/lab3/res/2.jpg)
-![image alt](https://github.com/AlexandrBerbat/Lab3OS/blob/main/lab3/res/3.jpg)
-![image alt](https://github.com/AlexandrBerbat/Lab3OS/blob/main/lab3/res/4.jpg)
+![image alt](https://github.com/AlexandrBerbat/Lab3OS/blob/main/lab3/res/3.png)
+![image alt](https://github.com/AlexandrBerbat/Lab3OS/blob/main/lab3/res/4.png)
