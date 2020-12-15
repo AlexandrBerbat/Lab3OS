@@ -4,3 +4,7 @@ To better understand LIFO, imagine stacking a deck of cards by placing one card 
 
 The LIFO method is sometimes used by computers when extracting data from an array or data buffer. When a program needs to access the most recent information entered, it will use the LIFO method. When information needs to be retrieved in the order it was entered, the FIFO method is used.
 
+![image alt](https://github.com/AlexandrBerbat/Lab3OS/blob/main/lab3/res/1.jpg)
+![image alt](https://github.com/AlexandrBerbat/Lab3OS/blob/main/lab3/res/2.jpg)
+![image alt](https://github.com/AlexandrBerbat/Lab3OS/blob/main/lab3/res/3.jpg)
+![image alt](https://github.com/AlexandrBerbat/Lab3OS/blob/main/lab3/res/4.jpg)
