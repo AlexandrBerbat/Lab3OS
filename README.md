@@ -1,3 +1,4 @@
+## LIFO
 Stands for "Last In, First Out." LIFO is a method of processing data in which the last items entered are the first to be removed. This is the opposite of LIFO is FIFO (First In, First Out), in which items are removed in the order they have been entered.
 
 ![image alt](https://github.com/AlexandrBerbat/Lab3OS/blob/main/lab3/res/1.jpg)
@@ -10,5 +11,7 @@ The LIFO method is sometimes used by computers when extracting data from an arra
 
 ![image alt](https://github.com/AlexandrBerbat/Lab3OS/blob/main/lab3/res/4.jpg)
 
-Graph
+ **Graph**
+ 
+ 
 ![image alt](https://github.com/AlexandrBerbat/Lab3OS/blob/main/lab3/res/2.png)
